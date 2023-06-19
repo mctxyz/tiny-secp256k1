@@ -1,5 +1,5 @@
 {
-  "name": "tiny-secp256k1",
+  "name": "mct-secp256k1",
   "version": "2.2.2",
   "description": "A tiny secp256k1 JS",
   "homepage": "https://github.com/mctxyz/tiny-secp256k1",
